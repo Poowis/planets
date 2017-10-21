@@ -1,4 +1,6 @@
 def main():
-    print("test")
+    print("test"*10)
+    for _ in range(2):
+        print("as;flkahsdn")
 
 main()
